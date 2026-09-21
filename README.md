@@ -1,3 +1,4 @@
+<img width="1880" height="957" alt="answers1" src="https://github.com/user-attachments/assets/8e2a0ba5-d9c7-4545-90c1-17524abf064f" />
 # Excel_Assignment_1-Data_Exploration_Answers
 Answers for first Excel Assignment on data exploration
 [Excel Assignment 1 - ANSWERS.xlsx](https://github.com/user-attachments/files/32345424/Excel.Assignment.1.-.ANSWERS.xlsx)
